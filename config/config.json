@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "flimflam",
+    "database": "music_tour",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "music_tour_test": {
+    "username": "postgres",
+    "password": "flimflam",
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "music_tour_production": {
+    "username": "postgres",
+    "password": "flimflam",
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
